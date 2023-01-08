@@ -39,7 +39,6 @@ a.cookielink:link, a.cookielink:visited {
 
 /* mouse over link */
 a.cookielink:hover {
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color:#6e381f;
   text-decoration: underline;
 }
